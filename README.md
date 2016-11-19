@@ -1,4 +1,5 @@
 # Raspberry-Pi-Wireless-Garage-Door-Opener
+I have uploaded a few photos under the 'issues' section.
 
 The single python script will activate a wireless garage door opener.  This will allow you to open and close your garage door from a raspberry pi.  If you have an extra wireless garage door opener you simply hard wire the raspberry pi into the opener.  This will supply 5v to the wireless opener and send the signal from pi on gpio 21 to the opener.  
 
